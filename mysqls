@@ -1,4 +1,0 @@
-#!/usr/bin/bash
-
-path=/home/$USER/.local/share/sqlmap/output/
-ls $path/$1
